@@ -1,0 +1,16 @@
+header nav ul li a{
+    color: white !important;
+}
+footer{
+    background-color: black;
+}
+.background {
+    background-image: url('/pictures/background.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    height: 100vh;
+}
+.result{
+    background-color: #d1952f;
+}
